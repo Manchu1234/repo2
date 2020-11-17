@@ -1,0 +1,6 @@
+State,Businesstype,UnderwritersBusiness,businessStates,transactionsType
+AL,Title & Closing,Chicago Title Insurance Company,Alaska,Commercial
+AR,Title only,Commonwealth Land Title Insurance Company,Arizona,Cash sale
+CA,Seller Side,Fidelity National Title Insurance Company,California,Purchase
+FL,Buyer Side,Chicago Title Insurance Company,Florida,Refinance
+MA,Closing only,Commonwealth Land Title Insurance Company,Maryland,Residential
